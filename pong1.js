@@ -200,9 +200,9 @@ window.addEventListener("keyup", function(event) {
   delete keysDown[event.keyCode];
 });
 
-var score = document.getElementById("comments").innerHTML = 1
+//var score = document.getElementById("comments").innerHTML = 1
 
-document.write(score)
+//document.write(score)
 
 
 
